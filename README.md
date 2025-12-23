@@ -16,7 +16,7 @@ The countdown is immediately canceled, and the display resets to â€œLocked In.â€
 Countdown reaches zero:
 A predefined output is triggered.
 In my implementation, this output activates a relay module, which in turn activates an external device.
-![Relay activation](...)
+![Relay activation](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/images/Geeked.jpg?raw=true)
 
 # How It Works
 - Camera captures real-time video input
