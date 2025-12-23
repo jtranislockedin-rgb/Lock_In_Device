@@ -4,11 +4,11 @@ Real-time eye tracking using Raspberry Pi and MediaPipe
 # What the Lock_In_Device does
 Eyes open:
 The system displays “Locked In”, indicating normal operation.
-![Locked In display](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/Locked-In.jpg?raw=true)
+![Locked In display](...)
 
 Eyes closed:
 A 5-second countdown begins and is displayed on the screen.
-![Countdown display](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/Countdown.jpg?raw=true)
+![Countdown display](...)
 
 Eyes reopen during countdown:
 The countdown is immediately canceled, and the display resets to “Locked In.”
@@ -16,7 +16,7 @@ The countdown is immediately canceled, and the display resets to “Locked In.�
 Countdown reaches zero:
 A predefined output is triggered.
 In my implementation, this output activates a relay module, which in turn activates an external device.
-![Relay activation](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/Geeked.jpg?raw=true)
+![Relay activation](...)
 
 # How It Works
 - Camera captures real-time video input
