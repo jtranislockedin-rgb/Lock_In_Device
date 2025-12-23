@@ -25,9 +25,9 @@ In my implementation, this output activates a relay module, which in turn activa
 - A timer-based logic controls display output and relay activation
 
 # Hardware used
-Raspberry Pi 4 or 5 (Powerful enough to run MediaPipe libraries)
-Pi Camera
-Output device of choice when eyes are closed
+- Raspberry Pi 4 or 5 (Powerful enough to run MediaPipe libraries)
+- Pi Camera
+- Output device of choice when eyes are closed
 
 # Software Used
 - Python 3
