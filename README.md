@@ -4,7 +4,7 @@ Real-time eye tracking using Raspberry Pi and MediaPipe
 # What the Lock_In_Device does
 Eyes open:
 The system displays “Locked In”, indicating normal operation.
-![Locked In display](...)
+![Locked In display](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/images/Locked-In.jpg?raw=true)
 
 Eyes closed:
 A 5-second countdown begins and is displayed on the screen.
