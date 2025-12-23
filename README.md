@@ -8,7 +8,7 @@ The system displays “Locked In”, indicating normal operation.
 
 Eyes closed:
 A 5-second countdown begins and is displayed on the screen.
-![Countdown display](...)
+![Countdown display](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/images/Countdown.jpg?raw=true)
 
 Eyes reopen during countdown:
 The countdown is immediately canceled, and the display resets to “Locked In.”
