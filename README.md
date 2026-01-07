@@ -1,7 +1,13 @@
 # Lock_In_Device
 Real-time eye tracking using Raspberry Pi and MediaPipe
 
-# What the Lock_In_Device does
+# The Problem
+Research consistently shows that drowsy or fatigued driving is a major yet often overlooked danger on the road. Nearly 9% of all car accidents—amounting to hundreds of thousands of crashes each year—are linked to driver fatigue, resulting in over 6,000 deaths annually. What makes these numbers especially alarming is that, unlike many other causes of traffic accidents, drowsy driving is entirely preventable.
+
+# Introducing the Lock_In_Device
+![Locked In intro]()
+
+# Lock_In_Device display states
 Eyes open:
 The system displays “Locked In”, indicating normal operation.
 ![Locked In display](https://github.com/jtranislockedin-rgb/Lock_In_Device/blob/main/images/Locked-In.jpg?raw=true)
