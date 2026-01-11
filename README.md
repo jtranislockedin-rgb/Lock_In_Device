@@ -37,9 +37,10 @@ In my implementation, this output activates a relay module, which in turn activa
 
 # Software Used
 - Python 3
-- MediaPipe
-- OpenCV
 - Raspberry Pi OS
+- MediaPipe (eye and face landmark detection)
+- OpenCV (camera capture and image processing)
+- NumPy (Gaze estimation) 
 
 # Disclaimer
 This project is for educational and experimental purposes only.
